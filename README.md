@@ -41,6 +41,8 @@
 
 <br>
 
+> `?` means it is unknown how to get a particular achievement
+
 # 👋 Achievement Skin Tone 👋
 
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
